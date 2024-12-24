@@ -1,0 +1,1 @@
+This error occurs when you try to access a property of a state variable before the component has finished rendering or before the state has been updated. This can happen if you are trying to access the state variable in the constructor before it's set or if you are trying to access it in a method that is called before the component has finished mounting.
